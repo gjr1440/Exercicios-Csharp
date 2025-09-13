@@ -1,3 +1,5 @@
 # Exercicios em C#
 
-Exercícios para treinar (lógica/sintaxe).
+ExercÃ­cios para treinar (lÃ³gica/sintaxe).
+
+-> Usando Visual Studio 2022.
